@@ -1,0 +1,59 @@
+
+
+
+.made-with-love{
+    color: beige;
+    background-color: var(--secondary-color);
+    text-align: center;
+    text-decoration: none;
+    height: 100%;
+  }
+  
+.made-with-love a{
+color: yellow;
+text-decoration: none;
+display: inline;
+
+}
+
+.made-with-love a:hover{
+color: yellow;
+/* text-decoration: none; */
+}
+  
+  .aboutus{
+    text-align: center;
+    justify-content: center;
+    height:100vh;
+    background-attachment: fixed;
+    background-size: contain;
+  }
+
+  
+  /* .aboutus span{
+    color: var(--primary-color);
+  } */
+  
+  .aboutus h1, .highlight{
+    color: yellow;
+    font-family: 'Alkatra', cursive;
+    font-family: 'Righteous', cursive;
+  }
+
+  .aboutus p{
+    font-family: 'Arimo', sans-serif;
+  }
+
+  .techused{
+    width: 25%;
+    box-shadow:10px 10px 20px black  ;
+    border-radius: 19px 19px 19px 19px;
+  -moz-border-radius: 19px 19px 19px 19px;
+  -webkit-border-radius: 19px 19px 19px 19px;
+  border: 2px solid #000000;
+  }
+
+  .alert-box{
+    /* display: contents; */
+  }
+  

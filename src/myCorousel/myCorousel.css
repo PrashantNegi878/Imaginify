@@ -1,0 +1,30 @@
+.story-text{
+    background-color: rgba(0, 0, 0,0.6);
+    border-radius: 5%;
+    border-radius: 1rem;
+}
+
+.carousel .carousel-item {
+    height: 500px;
+    width: 500px;
+    float: none!important;
+    position: initial!important;
+  }
+
+  .carousel .carousel-inner{
+    position: inherit!important;
+  }
+  
+  .carousel-item img {
+      object-fit: cover;
+      min-height: 500px;
+      border: 1px solid black;
+      border-radius: 2rem;
+      box-shadow: 15px 15px 100px ;
+  }
+
+  div .carousel-caption{
+    position: sticky !important;
+    margin-left: 5%!important;
+    margin-right: 5%!important;
+  }

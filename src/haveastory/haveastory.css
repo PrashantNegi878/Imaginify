@@ -1,0 +1,14 @@
+.myTextArea{
+    background-color: rgba(55, 59, 105,0.4) !important;
+    color: white !important;
+}
+
+.haveatory h4{
+    color: yellow;
+    font-family: 'Righteous', cursive;
+    -webkit-text-stroke: 1px black;
+  }
+
+  .haveatory .whiteText{
+    color: white;
+  }
